@@ -1,6 +1,6 @@
 - 👋 Hola, mi nombre es Rene Ceron gomez.
 - 👀 Mi interes es la investigaciòn de los diferentes tipos de lenguajes de programaciòn,
-- 🌱 Actualmente estoy leyendo y buscando informaciòn sobre programaciòn en go.
+- 🌱 Actualmente estoy leyendo y buscando informaciòn sobre programaciòn en analisis de datos con python
 - 💞️ Me gustaria colaborar y compartir experiencias sobre las buenas practicas de la utilizaciòn de este codigo.
 - 📫 Me pueden contactar por este medio o por mi correo electronico renecerongs@gmail.com
 
